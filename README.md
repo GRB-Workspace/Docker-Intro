@@ -28,10 +28,14 @@
 <div align="center">
   <h3>Notes</h3>
   <p>
-    For additional insights on the Docker configurations, please refer to the handwritten Docker notes:
+    For additional insights on the Docker configurations and more, please refer to the following handwritten notes:
     <br />
-    <a href="https://drive.google.com/file/d/1jRHCVbuuhu04ASh4iy54Wq7VqDIhaRCe/view?usp=sharing" target="_blank">
-      Handwritten Docker Notes
+    <a href="https://drive.google.com/file/d/1fdHU2bvU__scz4XPNu1cQ2Kcekw_cdPD/view?usp=sharing" target="_blank">
+      Handwritten Docker &amp; Azure VM Setup Note
+    </a>
+    <br />
+    <a href="https://drive.google.com/file/d/1SLsdzIpyH1SqZNftZho_9TO-mavyjWsZ/view?usp=sharing" target="_blank">
+      Handwritten LoadBalancing and Kubernetes Intro Note
     </a>
   </p>
 </div>
